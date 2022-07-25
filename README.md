@@ -8,8 +8,8 @@
 - 🧑‍💻 Read more about my jouney to be DevSecOps Engineer at [blog.gperes.dev](https://blog.gperes.dev)
 - 📫 How to reach me: [contact@gperes.dev](mailto:contact@gperes.dev)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I ❤️ martial arts and cicling
-- Connect with me: [🐦](https://twitter.com/guialvesp1) | [🟦](https://www.linkedin.com/in/guialvesp1/) | [📸](https://www.instagram.com/guialvesp1/)
+- ⚡ Fun fact: I ❤️ muay thai and cycling
+- 🤗 Connect with me: [🐦](https://twitter.com/guialvesp1) | [🟦](https://www.linkedin.com/in/guialvesp1/) | [📸](https://www.instagram.com/guialvesp1/)
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->

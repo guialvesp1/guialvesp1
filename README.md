@@ -5,13 +5,12 @@
 - 👯 I’m looking to collaborate on open source projects focused on civil society
 - 🤔 I’m looking for help with CK{A-D-S} or OSCP certification
 - 💬 Ask me about Python; Cloud Computing; k8s; Terraform; OWASP
-- 🧑‍💻 Read more about my jouney to be DevSecOps Engineer at [blog.gperes.dev](https://blog.gperes.dev)
 - 📫 How to reach me: [contact@gperes.dev](mailto:contact@gperes.dev)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I ❤️ muay thai and cycling
 - 🤗 Connect with me: [🐦](https://twitter.com/guialvesp1) | [🟦](https://www.linkedin.com/in/guialvesp1/) | [📸](https://www.instagram.com/guialvesp1/)
 
-📕 &nbsp;**Latest Blog Posts**
+<!-- 📕 &nbsp;**Latest Blog Posts** -->
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->

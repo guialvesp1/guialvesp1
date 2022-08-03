@@ -3,7 +3,7 @@
 - 🔭 I’m currently working in something cool, just check [basedosdados.org](https://basedosdados.org)
 - 🌱 I’m currently learning k8s and offensive security
 - 🤝 I’m open to collaborate on open source projects focused on civil society
-- 🤔 I’m looking for help with CK{A-D-S} or OSCP certification
+- 🤔 I’m looking for some help with CK{A-D-S} or OSCP certification
 - 💬 Ask me about Python; Cloud Computing; k8s; Terraform; OWASP
 - 📫 How to reach me: [contact@gperes.dev](mailto:contact@gperes.dev)
 - 😄 Pronouns: He/Him/His

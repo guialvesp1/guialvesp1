@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on something cool
+- 🔭 I’m currently working in something cool, just check [basedosdados.org](https://basedosdados.org)
 - 🌱 I’m currently learning k8s and offensive security
-- 👯 I’m looking to collaborate on open source projects focused on civil society
+- 🤝 I’m open to collaborate on open source projects focused on civil society
 - 🤔 I’m looking for help with CK{A-D-S} or OSCP certification
 - 💬 Ask me about Python; Cloud Computing; k8s; Terraform; OWASP
 - 📫 How to reach me: [contact@gperes.dev](mailto:contact@gperes.dev)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I ❤️ muay thai and cycling
+- 😄 Pronouns: He/Him/His
+- ⚡ Hobbies: I ❤️ muay thai and cycling
 - 🤗 Connect with me: [🐦](https://twitter.com/guialvesp1) | [🟦](https://www.linkedin.com/in/guialvesp1/) | [📸](https://www.instagram.com/guialvesp1/)
 
 <!-- 📕 &nbsp;**Latest Blog Posts** -->

@@ -14,7 +14,7 @@
 </style>
 
 <div id="personal-resume">
-  Brasileiro, solteiro, 26 anos. Toda a minha experiência profissional é em tecnologia, atuei nos ramos de telecomunicação, e-commerce e agrário, com o total de 7 anos de bagagem. Profundo conhecimento na área de infraestrutura, com grande interesse em arquitetura de software, padrões de design e segurança ofensiva. Experiente em trabalhar com equipes colaborativas e metodologias ágeis.
+  Brasileiro, solteiro, 27 anos. Toda a minha experiência profissional é em tecnologia, atuei nos ramos de telecomunicação, e-commerce e agrário, com o total de 7 anos de bagagem. Profundo conhecimento na área de infraestrutura, com grande interesse em arquitetura de software, padrões de design e segurança ofensiva. Experiente em trabalhar com equipes colaborativas e metodologias ágeis.
 </div>
 <div id="personal-contacts">
   📧 <a href="mailto:contact@gperes.dev">contact@gperes.dev</a>
@@ -47,6 +47,9 @@ Além do objetivo claro, você pode descrever lá nas informações adicionais s
   2020 - 2021
 
 ## 👨‍💻 **Experiência Profissional**
+
+* DevOps Engineer Jr. @ **Varsomics**, Remoto\
+  Out/2022
 
 * DevOps Engineer @ **Base dos Dados**, Remoto\
   Abr/2022
